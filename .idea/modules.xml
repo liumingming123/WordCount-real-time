@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../KafkaTest/KafkaTest.iml" filepath="$PROJECT_DIR$/../KafkaTest/KafkaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Stormtest/Stormtest.iml" filepath="$PROJECT_DIR$/../Stormtest/Stormtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hbase/hbase.iml" filepath="$PROJECT_DIR$/../hbase/hbase.iml" />
+      <module fileurl="file://D:/123/avro-kafka-strom-hbases/kafkastrom1.iml" filepath="D:/123/avro-kafka-strom-hbases/kafkastrom1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wordcountdemo.iml" filepath="$PROJECT_DIR$/wordcountdemo.iml" />
+    </modules>
+  </component>
+</project>
